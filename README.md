@@ -35,7 +35,7 @@ I test systems with permission so the people who run them can fix problems first
   <img src="./assets/projects.svg" alt="Project showcase" width="860" />
 </p>
 
-<p align="center">No public projects yet.</p>
+<p align="center">[**aws**](https://github.com/Mr-Red-007/aws)</p>
 <!-- PROJECTS:END -->
 
 ### ▸ 04 — ARSENAL
