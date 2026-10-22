@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:ff0033&height=220&section=header&text=Mr-Red-007&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn)
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF0033&center=true&vCenter=true&width=600&lines=Cyber+Security+Researcher;Ethical+Hacker;Bug+Bounty+Hunter;Breaking+things+so+they+stay+safe)](https://git.io/typing-svg)
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF0033&center=true&vCenter=true&width=700&lines=Red+Team+Operator;Penetration+Tester;AI+Red+Teamer;Bug+Bounty+%26+CTF+Player)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,11 +10,21 @@
 
 ### 👋 About me
 
-I research vulnerabilities, build security tools, and test systems with permission so the people who run them can fix problems before attackers find them.
+Red Team Operator and Penetration Tester focused on network, web application, and AI system security. I test systems with permission, document what I find, and help teams fix issues before attackers exploit them.
 
-- 🔭 **Now:** wireless security tooling and CVE proof-of-concept research
-- 🎯 **Focus:** web recon, wireless auditing, Linux security
-- 🤝 **Open to:** bug bounty, red team work, and security research collaboration
+- 🔭 **Now:** AI red teaming lab and an AI-assisted recon tool for bug bounty and CTF players
+- 🎯 **Focus:** OWASP Top 10 (web, AI/LLM, infrastructure), network testing, exploit development
+- 🏆 **Track record:** Top 5% on TryHackMe · Hack The Box skilled
+- 🤝 **Open to:** red team roles, penetration testing, and security research collaboration
+
+---
+
+### 🧪 Highlights
+
+- Identified and reported **15+ critical** vulnerabilities in network assessments
+- Mitigated **20+ high-risk** findings using Nessus and Qualys scans
+- Launched **20+ AI red team scenarios** against ML and LLM applications
+- Hosted **3 CTF competitions** for 150+ participants with 25+ custom challenges
 
 ---
 
@@ -31,13 +41,28 @@ I research vulnerabilities, build security tools, and test systems with permissi
 
 ---
 
-### 🧰 Tools & skills
+### 🧰 Skills
+
+**AI security:** AI red teaming · prompt injection testing · jailbreak testing · adversarial ML · OWASP LLM Top 10
+
+**Offensive security:** penetration testing · vulnerability assessment · exploit development · web application security · SSRF · threat modeling (STRIDE)
+
+**Networking & systems:** TCP/IP · DNS · DHCP · HTTP/S · Linux · network troubleshooting
+
+**Tools & languages:** Python · Bash · Burp Suite · Nmap · Nessus · Qualys · FFUF · Gobuster
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+
+---
+
+### 🎓 Certifications
+
+- Certified Ethical Hacker (EC-Council, 2024)
+- Certified Network Engineer (IPv6 Forum, 2025)
 
 ---
 
@@ -52,12 +77,12 @@ I research vulnerabilities, build security tools, and test systems with permissi
 
 ### 🛡️ Ethics
 
-Testing only happens with permission. Findings go to the owner first, with time to fix before anything is published.
+Testing only happens with written permission. Findings go to the owner first, with time to fix before anything is published.
 
 ---
 
 <div align="center">
 
-📫 [Email](mailto:YOUR_PUBLIC_EMAIL) · 🌐 [Website](#)
+📫 [Contact via GitHub issues or the email on my profile](#)
 
 </div>
