@@ -42,13 +42,26 @@ $ ls projects/        # auto-synced daily from public repos
 ---
 
 ```bash
+$ cat domains.txt
+```
+
+<div align="center">
+<img src="./assets/domains.svg" alt="Domain matrix: offensive, defensive, forensics, network, systems, AI security, reverse engineering" width="860" />
+</div>
+
+---
+
+```bash
 $ cat skills.txt
 ```
 
 **AI security:** AI red teaming · prompt injection · jailbreak testing · adversarial ML · OWASP LLM Top 10
 **Offensive:** penetration testing · vulnerability assessment · exploit development · SSRF · STRIDE
-**Networking:** TCP/IP · DNS · DHCP · HTTP/S · Linux
-**Tools:** Python · Bash · Burp Suite · Nmap · Nessus · Qualys · FFUF · Gobuster
+**Defensive:** WAF deployment · vulnerability scanning · remediation planning · threat modeling
+**Forensics:** post-exploitation analysis · log and configuration review
+**Networking:** TCP/IP · DNS · DHCP · HTTP/S · network troubleshooting
+**Systems:** Linux · Bash · Python automation · OS security checks
+**Tools:** Burp Suite · Nmap · Nessus · Qualys · FFUF · Gobuster
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -64,13 +77,6 @@ $ cat certs.txt
 
 - Certified Ethical Hacker: EC-Council, 2024
 - Certified Network Engineer: IPv6 Forum, 2025
-
----
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mr-Red-007&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Red-007&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 ---
 
