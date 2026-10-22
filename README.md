@@ -1,108 +1,63 @@
 <div align="center">
 
-```
- ███╗   ███╗██████╗       ██████╗ ███████╗██████╗       ██████╗  ██████╗ ███████╗
- ████╗ ████║██╔══██╗      ██╔══██╗██╔════╝██╔══██╗      ╚════██╗██╔═══██╗██╔════╝
- ██╔████╔██║██████╔╝█████╗██████╔╝█████╗  ██║  ██║ █████╗ █████╔╝██║   ██║███████╗
- ██║╚██╔╝██║██╔══██╗╚════╝██╔══██╗██╔══╝  ██║  ██║ ╚════╝██╔═══╝ ██║   ██║╚════██║
- ██║ ╚═╝ ██║██║  ██║      ██║  ██║███████╗██████╔╝      ███████╗╚██████╔╝███████║
- ╚═╝     ╚═╝╚═╝  ╚═╝      ╚═╝  ╚═╝╚══════╝╚═════╝       ╚══════╝ ╚═════╝ ╚══════╝
-```
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:ff0033&height=220&section=header&text=Mr-Red-007&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn)
 
-### `> whoami`
-**Security researcher · Ethical hacker · Pentester · Bug bounty hunter**
-
-*"Started modding games. Ended up modding systems."*
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Mr-Red-007&color=ff0033&style=flat-square&label=RECON+HITS)](https://github.com/Mr-Red-007)
-[![Followers](https://img.shields.io/github/followers/Mr-Red-007?style=flat-square&label=FOLLOWERS&color=ff0033)](https://github.com/Mr-Red-007)
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF0033&center=true&vCenter=true&width=600&lines=Cyber+Security+Researcher;Ethical+Hacker;Bug+Bounty+Hunter;Breaking+things+so+they+stay+safe)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## `> status`
+### 👋 About me
 
-```diff
-+ STATUS        : ONLINE
-+ CLEARANCE     : Authorized testing only
-+ CURRENT FOCUS: Wireless security · Web recon · Linux internals · CTF
-+ OPEN TO      : Bug bounty · Red team collaboration · Security research
-```
+I research vulnerabilities, build security tools, and test systems with permission so the people who run them can fix problems before attackers find them.
 
----
-
-## `> vision --god-mode`
-
-> I see the whole network the way an attacker does, so I can help defenders close the gaps first.
-> Every system has a map. My job is to read it before someone with bad intent does.
-
-```
-                         ┌───────────────────────────┐
-                         │       GOD'S EYE VIEW       │
-                         └─────────────┬─────────────┘
-          ┌────────────────┬───────────┴────────┬────────────────┐
-     ┌────┴─────┐     ┌────┴─────┐        ┌─────┴────┐     ┌─────┴─────┐
-     │ WIRELESS │     │   WEB    │        │   OS /   │     │ DEFENSE & │
-     │  AUDIT   │     │  RECON   │        │  KERNEL  │     │  REPORTING│
-     └──────────┘     └──────────┘        └──────────┘     └───────────┘
-```
+- 🔭 **Now:** wireless security tooling and CVE proof-of-concept research
+- 🎯 **Focus:** web recon, wireless auditing, Linux security
+- 🤝 **Open to:** bug bounty, red team work, and security research collaboration
 
 ---
 
-## `> arsenal`
+### 🚀 Projects
 
-| Domain | Tools & Skills |
+<!-- PROJECTS:START -->
+| Project | What it does |
 |---|---|
-| 📡 **Wireless** | Aircrack-ng suite, monitor mode, handshake analysis |
-| 🌐 **Web** | Recon, enumeration, OWASP Top 10, bug bounty methodology |
-| 🐧 **Systems** | Linux internals, Arch and BlackArch, ACPI, GPU driver tuning |
-| 🧪 **Research** | CVE analysis, proof-of-concept development, CTF challenges |
-| 🛠️ **Scripting** | Bash, Python |
-| 📝 **Reporting** | Clear write-ups, reproducible steps, responsible disclosure |
-
----
-
-## `> operations` (featured projects)
-
-| Codename | Mission |
-|---|---|
-| [**arcsheet**](https://github.com/Mr-Red-007/arcsheet) | Full Aircrack-ng workflow in one bash CLI: monitor mode, scanning, handshake capture, deauth, cracking. |
+| [**arcsheet**](https://github.com/Mr-Red-007/arcsheet) | Aircrack-ng workflow in one bash CLI: monitor mode, scanning, handshake capture, cracking. |
 | [**profile**](https://github.com/Mr-Red-007/profile) | Linux power, temperature, and GPU control from one command. |
-| [**ctf-bug-bounty-enum**](https://github.com/Mr-Red-007/ctf-bug-bounty-enum-) | Enumeration toolkit with web and OS security checks, plus a web security cheatsheet. |
-| [**CVE-2026-27739-POC**](https://github.com/Mr-Red-007/CVE-2026-27739-POC) | Proof of concept for CVE-2026-27739, shared for defenders and researchers. |
+| [**ctf-bug-bounty-enum-**](https://github.com/Mr-Red-007/ctf-bug-bounty-enum-) | Enumeration toolkit with web and OS checks, plus a web security cheatsheet. |
+| [**CVE-2026-27739-POC**](https://github.com/Mr-Red-007/CVE-2026-27739-POC) | Proof of concept for CVE-2026-27739. |
+<!-- PROJECTS:END -->
 
 ---
 
-## `> stats`
+### 🧰 Tools & skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mr-Red-007&show_icons=true&theme=dark&hide_border=true&title_color=ff0033&icon_color=ff0033" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Red-007&layout=compact&theme=dark&hide_border=true&title_color=ff0033" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mr-Red-007&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Red-007&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## `> ethics.md`
+### 🛡️ Ethics
 
-I follow a simple rule: **test only what you are authorized to test, and report what you find.**
-
-- Always get written permission before testing.
-- Follow responsible disclosure and give vendors time to patch.
-- Never access, store, or share data beyond what proves the issue.
-- Tools here are for education, defense, and authorized assessments.
+Testing only happens with permission. Findings go to the owner first, with time to fix before anything is published.
 
 ---
 
-## `> contact`
-
-[![Email](https://img.shields.io/badge/EMAIL-ff0033?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_PUBLIC_EMAIL)
-[![Website](https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
-
 <div align="center">
 
-```
-  [ END OF TRANSMISSION ]   stay curious. stay legal. stay secure.
-```
+📫 [Email](mailto:YOUR_PUBLIC_EMAIL) · 🌐 [Website](#)
 
 </div>
