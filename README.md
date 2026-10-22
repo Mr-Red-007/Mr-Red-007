@@ -1,34 +1,34 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:ff0033&height=220&section=header&text=Mr-Red-007&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn)
+<img src="./assets/terminal.svg" alt="Mr-Red-007 terminal" width="860" />
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF0033&center=true&vCenter=true&width=700&lines=Red+Team+Operator;Penetration+Tester;AI+Red+Teamer;Bug+Bounty+%26+CTF+Player)](https://git.io/typing-svg)
+<br/>
+
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=FF0033&center=true&vCenter=true&width=700&lines=Red+Team+Operator;Penetration+Tester;AI+Red+Teamer;Bug+Bounty+%26+CTF+Player)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 👋 About me
+```bash
+$ cat about.md
+```
 
-Red Team Operator and Penetration Tester focused on network, web application, and AI system security. I test systems with permission, document what I find, and help teams fix issues before attackers exploit them.
+I break systems on paper and with permission so the people who run them can fix them first. My work spans network testing, web application security, and AI and LLM red teaming.
 
-- 🔭 **Now:** AI red teaming lab and an AI-assisted recon tool for bug bounty and CTF players
-- 🎯 **Focus:** OWASP Top 10 (web, AI/LLM, infrastructure), network testing, exploit development
-- 🏆 **Track record:** Top 5% on TryHackMe · Hack The Box skilled
-- 🤝 **Open to:** red team roles, penetration testing, and security research collaboration
-
----
-
-### 🧪 Highlights
-
-- Identified and reported **15+ critical** vulnerabilities in network assessments
-- Mitigated **20+ high-risk** findings using Nessus and Qualys scans
-- Launched **20+ AI red team scenarios** against ML and LLM applications
-- Hosted **3 CTF competitions** for 150+ participants with 25+ custom challenges
+| Signal | Value |
+|---|---|
+| 🏆 TryHackMe | Top 5% |
+| 🧪 Hack The Box | Skilled |
+| 🤖 AI red team scenarios | 20+ |
+| 🔎 Critical findings reported | 15+ |
+| 🎤 CTF events hosted | 3 (150+ players) |
 
 ---
 
-### 🚀 Projects
+```bash
+$ ls projects/        # auto-synced daily from public repos
+```
 
 <!-- PROJECTS:START -->
 | Project | What it does |
@@ -41,32 +41,31 @@ Red Team Operator and Penetration Tester focused on network, web application, an
 
 ---
 
-### 🧰 Skills
+```bash
+$ cat skills.txt
+```
 
-**AI security:** AI red teaming · prompt injection testing · jailbreak testing · adversarial ML · OWASP LLM Top 10
+**AI security:** AI red teaming · prompt injection · jailbreak testing · adversarial ML · OWASP LLM Top 10
+**Offensive:** penetration testing · vulnerability assessment · exploit development · SSRF · STRIDE
+**Networking:** TCP/IP · DNS · DHCP · HTTP/S · Linux
+**Tools:** Python · Bash · Burp Suite · Nmap · Nessus · Qualys · FFUF · Gobuster
 
-**Offensive security:** penetration testing · vulnerability assessment · exploit development · web application security · SSRF · threat modeling (STRIDE)
-
-**Networking & systems:** TCP/IP · DNS · DHCP · HTTP/S · Linux · network troubleshooting
-
-**Tools & languages:** Python · Bash · Burp Suite · Nmap · Nessus · Qualys · FFUF · Gobuster
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-
----
-
-### 🎓 Certifications
-
-- Certified Ethical Hacker (EC-Council, 2024)
-- Certified Network Engineer (IPv6 Forum, 2025)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
 ---
 
-### 📊 GitHub stats
+```bash
+$ cat certs.txt
+```
+
+- Certified Ethical Hacker: EC-Council, 2024
+- Certified Network Engineer: IPv6 Forum, 2025
+
+---
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mr-Red-007&show_icons=true&theme=radical&hide_border=true" />
@@ -75,14 +74,14 @@ Red Team Operator and Penetration Tester focused on network, web application, an
 
 ---
 
-### 🛡️ Ethics
+```bash
+$ cat ethics.txt
+```
 
-Testing only happens with written permission. Findings go to the owner first, with time to fix before anything is published.
-
----
+Testing happens only with written permission. Findings go to the owner first, with time to fix before anything is published.
 
 <div align="center">
 
-📫 [Contact via GitHub issues or the email on my profile](#)
+📫 Contact: use the email on my GitHub profile or open an issue on any repo.
 
 </div>
