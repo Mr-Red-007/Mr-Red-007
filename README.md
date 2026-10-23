@@ -35,7 +35,7 @@ I test systems with permission so the people who run them can fix problems first
   <img src="./assets/projects.svg" alt="Project showcase" width="860" />
 </p>
 
-<p align="center">[**recon-**](https://github.com/Mr-Red-007/recon-) · [**ctf-bug-bounty-enum**](https://github.com/Mr-Red-007/ctf-bug-bounty-enum) · [**profile**](https://github.com/Mr-Red-007/profile) · [**CVE-2026-27739-POC**](https://github.com/Mr-Red-007/CVE-2026-27739-POC) · [**arcsheet**](https://github.com/Mr-Red-007/arcsheet) · [**aws**](https://github.com/Mr-Red-007/aws)</p>
+<p align="center">[**cyberintel-apk-**](https://github.com/Mr-Red-007/cyberintel-apk-) · [**recon-**](https://github.com/Mr-Red-007/recon-) · [**ctf-bug-bounty-enum**](https://github.com/Mr-Red-007/ctf-bug-bounty-enum) · [**profile**](https://github.com/Mr-Red-007/profile) · [**CVE-2026-27739-POC**](https://github.com/Mr-Red-007/CVE-2026-27739-POC) · [**arcsheet**](https://github.com/Mr-Red-007/arcsheet) · [**aws**](https://github.com/Mr-Red-007/aws)</p>
 <!-- PROJECTS:END -->
 
 ### ▸ 04 — ARSENAL
